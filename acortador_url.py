@@ -13,3 +13,6 @@ st.title("URL Shortener")
 url = st.text_input("Enter the URL")
 if st.button("Generate new UWL"):
     st.write("URL shortened: ", shorten_url(url))
+
+# For running, type in console:
+    # streamlit run acortador_url
