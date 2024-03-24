@@ -16,3 +16,6 @@ if st.button("Generate new UWL"):
 
 # For running, type in console:
     # streamlit run acortador_url
+
+# for stop (in VSCode):
+    # Ctrl + C (in console)
